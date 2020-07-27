@@ -1,183 +1,125 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Warcraft Crônicas",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#48cb36",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Playlist completa com os videos de lore do @cojanowow",
+        "url": "https://www.youtube.com/playlist?list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "LORE: World of Warcraft Chronicles I - Parte 1 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=xKG00_aQU_Y&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=24"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "LORE: World of Warcraft Chronicles I - Parte 2 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=gqFUgXKKMic&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=25"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "LORE: World of Warcraft Chronicles I - Parte 3 - @cojanowow",
+          "url": "youtube.com/watch?v=6cuYTQ2Dfj4&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=26"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "LORE: World of Warcraft Chronicles I - Parte 4 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=V0ECvMlGN3M&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=27"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "LORE: World of Warcraft Chronicles II - Parte 1 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=u1zlfrgqas8&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=29"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "LORE: World of Warcraft Chronicles II - Parte 2 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=1GwrKILXKGs&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=30"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "LORE: World of Warcraft Chronicles II - Parte 3 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=1OuKz6QmehY&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=32"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "LORE: World of Warcraft Chronicles II - Parte 4 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=b42g1uXUC3o&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=33"
+        },
+        {
+          "titulo": "LORE: World of Warcraft Chronicles II - Parte 5 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=ZdQYDtoGA0E&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=34"
+        },
+        {
+          "titulo": "LORE: World of Warcraft Chronicles II - Final - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=HVkOapJlNi8&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=35"
+        },
+        {
+          "titulo": "LORE: World of Warcraft Chronicles III - Parte 1 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=HTN-SM1_kh8&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=37"
+        },
+        {
+          "titulo": "LORE: World of Warcraft Chronicles III - Parte 2 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=XuOXBJJouLI&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=38"
+        },
+        {
+          "titulo": "LORE: World of Warcraft Chronicles III - Parte 3 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=OjhLAArTgzw&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=39"
+        },
+        {
+          "titulo": "LORE: World of Warcraft Chronicles III - Parte 4 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=Emlc8P4iQas&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=40"
+        },
+        {
+          "titulo": "LORE: World of Warcraft Chronicles III - Parte 5 - @cojanowow",
+          "url": "https://www.youtube.com/watch?v=-Zi0tee37sg&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=41"
+        }             
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Nobbel87",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Lore videos by Nobbel87(English)",
+        "url": "https://www.youtube.com/user/Nobbel87"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "The Story of The Lich King - Full Version [Lore]",
+          "url": "https://www.youtube.com/watch?v=-dpbWpPrTnk"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "The Story of Illidan Stormrage - Full Version [Lore]",
+          "url": "https://www.youtube.com/watch?v=M79j14JK_xE"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "The Story of Sylvanas Windrunner - Full Version [Lore]",
+          "url": "https://www.youtube.com/watch?v=9z-Et1N8bv4"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "The Story of Gul'dan [Lore]",
+          "url": "https://www.youtube.com/watch?v=HF1oQqG2maY"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Hearthstoria",
+      "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Lore e Análise de cartas de Hearthstone com o Hearthstoria",
+        "url": "https://www.youtube.com/channel/UCHJHaqhHcExLp3rTnwGzMcQ"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Kel´thuzad - Origem da Carta",
+          "url": "https://www.youtube.com/watch?v=QD6loqCukLg"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "C'Thun - Origem da Carta",
+          "url": "https://www.youtube.com/watch?v=qUvSPjWj4hI"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Ragnaros, o Senhor do Fogo - Origem da Carta",
+          "url": "https://www.youtube.com/watch?v=a4QSz9Ee3QY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "O Ringue do Rastakhan - Historia da Expansão",
+          "url": "https://www.youtube.com/watch?v=bQ3cJFr8zlQ"
         }
       ]
     }
