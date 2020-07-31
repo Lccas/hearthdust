@@ -17,7 +17,7 @@ function Footer() {
         <a href="https://www.linkedin.com/in/leonardocarvalho133/">
           Leonardo Carvalho
         </a>
-        <a class="fa fa-github" href="https://www.linkedin.com/in/leonardocarvalho133/">
+        <a href="https://www.linkedin.com/in/leonardocarvalho133/">
         </a>
       </p>
     </FooterBase>
