@@ -1,0 +1,16 @@
+{
+   "categorias": [
+       {
+        "id": 1,
+        "nome": "Wow Crônicas",
+        "descrição": "Playlist completa com os videos de lore do @cojanowow",
+        "cor": "#48cb36"
+       },
+       {
+        "id": 2,
+        "nome": "Nobbel87",
+        "descrição": "Lore videos by Nobbel87(English)",
+        "cor": "#00C86F"
+       }
+   ]
+}
