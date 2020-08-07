@@ -29,7 +29,9 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL_JSON = 'http://localhost:8080/categorias';
+    const URL_JSON = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'https://hearthdust.herokuapp.com/categorias';
     fetch(URL_JSON)
       .then(async (serverResponse) => {
         const response = await serverResponse.json();
