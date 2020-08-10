@@ -1,16 +1,206 @@
 {
-   "categorias": [
-       {
-        "id": 1,
-        "nome": "Wow Crônicas",
-        "descrição": "Playlist completa com os videos de lore do @cojanowow",
-        "cor": "#48cb36"
-       },
-       {
-        "id": 2,
-        "nome": "Nobbel87",
-        "descrição": "Lore videos by Nobbel87(English)",
-        "cor": "#00C86F"
-       }
-   ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Wow Crônicas",
+      "cor": "#48cb36",
+      "link_extra": {
+        "text": "Playlist completa com os videos de lore do @cojanowow",
+        "url": "https://www.youtube.com/playlist?list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Nobbel87",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Lore videos by Nobbel87(English)",
+        "url": "https://www.youtube.com/user/Nobbel87"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Hearthstoria",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Lore e Análise de cartas de Hearthstone com o Hearthstoria",
+        "url": "https://www.youtube.com/channel/UCHJHaqhHcExLp3rTnwGzMcQ"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles I - Parte 1 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=xKG00_aQU_Y&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=24"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles I - Parte 2 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=gqFUgXKKMic&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=25"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles I - Parte 3 - @cojanowow",
+      "url": "youtube.com/watch?v=6cuYTQ2Dfj4&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=26"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles I - Parte 4 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=V0ECvMlGN3M&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=27"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles II - Parte 1 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=u1zlfrgqas8&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=29"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles II - Parte 2 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=1GwrKILXKGs&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=30"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles II - Parte 3 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=1OuKz6QmehY&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=32"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles II - Parte 4 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=b42g1uXUC3o&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=33"
+    },
+    {
+      "id": 9,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles II - Parte 5 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=ZdQYDtoGA0E&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=34"
+    },
+    {
+      "id": 10,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles II - Final - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=HVkOapJlNi8&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=35"
+    },
+    {
+      "id": 11,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles III - Parte 1 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=HTN-SM1_kh8&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=37"
+    },
+    {
+      "id": 12,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles III - Parte 2 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=XuOXBJJouLI&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=38"
+    },
+    {
+      "id": 13,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles III - Parte 3 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=OjhLAArTgzw&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=39"
+    },
+    {
+      "id": 14,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles III - Parte 4 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=Emlc8P4iQas&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=40"
+    },
+    {
+      "id": 15,
+      "categoriaId": 1,
+      "titulo": "LORE: World of Warcraft Chronicles III - Parte 5 - @cojanowow",
+      "url": "https://www.youtube.com/watch?v=-Zi0tee37sg&list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8&index=41"
+    },
+    {
+      "id": 1,
+      "categoriaId": 2,
+      "titulo": "The Story of The Lich King - Full Version [Lore]",
+      "url": "https://www.youtube.com/watch?v=-dpbWpPrTnk"
+    },
+    {
+      "id": 2,
+      "categoriaId": 2,
+      "titulo": "The Story of Illidan Stormrage - Full Version [Lore]",
+      "url": "https://www.youtube.com/watch?v=M79j14JK_xE"
+    },
+    {
+      "id": 3,
+      "categoriaId": 2,
+      "titulo": "The Story of Sylvanas Windrunner - Full Version [Lore]",
+      "url": "https://www.youtube.com/watch?v=9z-Et1N8bv4"
+    },
+    {
+      "id": 4,
+      "categoriaId": 2,
+      "titulo": "The Story of Gul'dan [Lore]",
+      "url": "https://www.youtube.com/watch?v=HF1oQqG2maY"
+    },
+    {
+      "id": 1,
+      "categoriaId": 3,
+      "titulo": "Kel´thuzad - Origem da Carta",
+      "url": "https://www.youtube.com/watch?v=QD6loqCukLg"
+    },
+    {
+      "id": 2,
+      "categoriaId": 3,
+      "titulo": "C'Thun - Origem da Carta",
+      "url": "https://www.youtube.com/watch?v=qUvSPjWj4hI"
+    },
+    {
+      "id": 3,
+      "categoriaId": 3,
+      "titulo": "Ragnaros, o Senhor do Fogo - Origem da Carta",
+      "url": "https://www.youtube.com/watch?v=a4QSz9Ee3QY"
+    },
+    {
+      "id": 4,
+      "categoriaId": 3,
+      "titulo": "O Ringue do Rastakhan - Historia da Expansão",
+      "url": "https://www.youtube.com/watch?v=bQ3cJFr8zlQ"
+    },
+    {
+      "id": 16,
+      "categoriaId": 2,
+      "titulo": "Mr.bigglesworth",
+      "url": "https://www.youtube.com/watch?v=a5o-r0R8Gxg"
+    },
+    {
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=vT14qlvDIGw",
+      "id": 17
+    },
+    {
+      "titulo": "Tapete mágico",
+      "url": "https://www.youtube.com/watch?v=vT14qlvDIGw",
+      "categoriaId": 3,
+      "id": 18
+    },
+    {
+      "titulo": "The Story of Broxxigar",
+      "url": "https://www.youtube.com/watch?v=y7fo2LR9PoY",
+      "categoriaId": 2,
+      "id": 19
+    },
+    {
+      "titulo": "The Story of Rexxar",
+      "url": "https://www.youtube.com/watch?v=P0wP77NMR7U",
+      "categoriaId": 2,
+      "id": 20
+    },
+    {
+      "titulo": "Arquimago Vargoth - Analise da Carta (Hearthstone)",
+      "url": "https://www.youtube.com/watch?v=qrN9p3XzYvs",
+      "categoriaId": 3,
+      "id": 21
+    }
+  ]
 }
