@@ -1,14 +1,25 @@
 /* eslint-disable no-console */
 import React, { useEffect, useState } from 'react';
 // import dadosIniciais from '../../data/dados_iniciais.json';
+
+import ReactGA from 'react-ga';
+
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import PageDefault from '../../components/PageDefault';
 import categoriasRepository from '../../repositories/categorias';
 
+function initializeAnalytics() {
+  ReactGA.initialize('UA-174936742-1');
+  ReactGA.pageview('/');
+  ReactGA.pageview('/cadastro/video');
+  ReactGA.pageview('/cadastro/categoria');
+}
+
 function Home() {
   const [dadosIniciais, setDadosIniciais] = useState([]);
 
+  initializeAnalytics();
   useEffect(() => {
     // http://localhost:8080/categorias?_embed=videos
     categoriasRepository.getAllWithVideos()

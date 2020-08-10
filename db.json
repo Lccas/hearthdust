@@ -2,8 +2,8 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Wow Crônicas",
-      "cor": "#48cb36",
+      "titulo": "Wow Crônicas - Coja Gamer",
+      "cor": "#576ef5",
       "link_extra": {
         "text": "Playlist completa com os videos de lore do @cojanowow",
         "url": "https://www.youtube.com/playlist?list=PLyDFJWiUz4lNhphCOiykKcX2hUZYb8Yo8"
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "titulo": "Nobbel87",
-      "cor": "#00C86F",
+      "cor": "#576ef5",
       "link_extra": {
         "text": "Lore videos by Nobbel87(English)",
         "url": "https://www.youtube.com/user/Nobbel87"
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "titulo": "Hearthstoria",
-      "cor": "#6BD1FF",
+      "cor": "#576ef5",
       "link_extra": {
         "text": "Lore e Análise de cartas de Hearthstone com o Hearthstoria",
         "url": "https://www.youtube.com/channel/UCHJHaqhHcExLp3rTnwGzMcQ"
